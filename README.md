@@ -8,8 +8,8 @@ git init
 git add README.md
 
 git add .
-git commit -m "first commit 1.1"
+git commit -m "first commit 1.2"
 git branch -M main
 git push -u origin main
 
-Seccion 12 : NowPlaying Provider y Notifier
+Seccion 12 : Finalizada
